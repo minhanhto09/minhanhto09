@@ -7,7 +7,7 @@
 
 ## 📖 **About Me**
 
-- I'm a **Master's in Statistical Science** student at Duke University with a **full-tuition scholarship**. I currently work as a **teaching assistant (TA)** and am an active member of the [**American Statistical Association (ASA)**](https://www.amstat.org/).
+- I'm a **Master's in Statistical Science** student at Duke University with a **full-tuition scholarship**. I currently work as a teaching assistant (TA) and am an active member of the **American Statistical Association (ASA)**.
 
 - I'm collaborating with a **chess grandmaster** to develop a **Chess Tutor Chatbot** that provides learners with personalized post-game feedback and strategic insights.
 
@@ -27,8 +27,8 @@
 
 - **Machine Learning & AI:** 
     - Experienced in applying models like XGBoost, Random Forest, and Logistic Regression for prediction, classification, and optimization. 
-    - Skilled in deep learning using CNNs, TensorFlow, and PyTorch for computer vision tasks.
-    - Familiar with generative AI technologies such as LangChain, OpenAI APIs, and vector databases.
+    - Skilled in **deep learning** using CNNs, TensorFlow, and PyTorch for computer vision tasks.
+    - Familiar with **generative AI** technologies such as LangChain, OpenAI APIs, and vector databases.
 
 - **Data & Analysis:** Proficient in data manipulation with Pandas and NumPy. Strong statistical foundation in **hypothesis testing**, **Bayesian inference**, **causal inference**, and **hierarchical models**.
 
@@ -41,4 +41,4 @@
 
 ---
 
-### ✨ "Data is the new oil; let’s refine it for a brighter future!"
+### ✨ "Data is the new oil; let's refine it for a brighter future!"
