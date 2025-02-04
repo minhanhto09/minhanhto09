@@ -7,15 +7,15 @@
 
 ## 📖 **About Me**
 
-- I'm a **Master's in Statistical Science** student at Duke University with a **full-tuition scholarship**. I currently work as a teaching assistant (TA) and am an active member of the **American Statistical Association (ASA)**.
+- I'm a **Master's in Statistical Science** student at Duke University with a **full-tuition scholarship**. I currently work as a teaching assistant (TA) and am an active member of the American Statistical Association (ASA).
 
 - I'm collaborating with a **chess grandmaster** to develop a **Chess Tutor Chatbot** that provides learners with personalized post-game feedback and strategic insights.
 
-- During my **internship at Duke School of Medicine**, I built **end-to-end machine learning pipelines** to predict antibody yields, enhancing production for **HIV/AIDS treatment**. I presented this project to 200+ scientists at the **Duke CFAR Retreat 2024**.
+- During my **internship at Duke University School of Medicine**, I built **end-to-end machine learning pipelines** to predict antibody yields, enhancing production for **HIV/AIDS treatment**. I presented this project to 200+ scientists at the Duke CFAR Retreat 2024.
 
-- I conducted research on **statistical inference** and **hypothesis testing** at the **Vietnam Institute of Mathematics**, funded by a **VinIF Vietnam** grant.
+- I conducted research on **statistical inference** and **hypothesis testing** at the Vietnam Institute of Mathematics, funded by a **VinIF Vietnam** grant.
 
-- I was awarded the **National Mathematics Scholarship** from the **Vietnam Ministry of Training and Education**, recognizing the top **1% of math students** in Vietnam.
+- I was awarded the **National Mathematics Scholarship** from the Vietnam Ministry of Training and Education, recognizing the top **1% of math students** in Vietnam.
 
 - Outside of work, I enjoy board games, DIY projects, and yoga.
 
@@ -34,13 +34,9 @@
 
 ---
 
-## 💡 **Let's Connect!**
-
 ## 💡 Let's Connect!  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minhanhto/)  
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minhanh.to@duke.edu)
+[![Email](https://img.shields.io/badge/Email-%230078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:minhanh.to@duke.edu)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFAC45.svg?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/minhanhto09)  
 ---
-
-### ✨ "Data is the new oil; let's refine it for a brighter future!"
