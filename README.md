@@ -9,13 +9,13 @@
 
 🎓 I'm a **Master's in Statistical Science** student at Duke University with a **full-tuition scholarship** and **Vingroup Scholarship**. I currently work as a teaching assistant (TA) and am an active member of the American Statistical Association (ASA).
 
-🤖 I'm collaborating with a **chess grandmaster** to develop a **Chess Tutor Chatbot** that provides players with personalized post-game feedback and strategic insights.
+♟️ I'm collaborating with a chess grandmaster to develop a Chess Tutor Chatbot, delivering personalized post-game feedback and strategic insights to learners.
 
-🧪 During my **internship at Duke University School of Medicine**, I built **end-to-end machine learning pipelines** optimize antibody production for **HIV/AIDS treatment**. I presented this project to 200+ scientists at the Duke CFAR Retreat 2024.
+🧪 During my **internship at Duke University School of Medicine**, I built **end-to-end machine learning pipelines** optimize antibody production for **HIV/AIDS treatment**. My project was selected for presentation to 200+ scientists at the Duke CFAR Retreat 2024.
 
-📊 I conducted research on **statistical inference** and **hypothesis testing** at the Vietnam Institute of Mathematics, funded by a **VinIF Vietnam** grant.
+📊  I conducted research on **statistical inference** and **hypothesis testing** at the Vietnam Institute of Mathematics, securing a significant grant from VinIF Vietnam.
 
-🏆 I was awarded the **National Mathematics Scholarship** from the Vietnam Ministry of Training and Education, recognizing the top **1% of math students** in Vietnam.
+🏆 I was awarded the **National Mathematics Scholarship** from the Vietnam Ministry of Education & Training, recognizing the top **1% of math students** in Vietnam.
 
 🎲 Outside of work, I enjoy board games, reading, DIY projects, and yoga. 
 
@@ -30,7 +30,9 @@
     - Skilled in **deep learning** using CNNs, TensorFlow, and PyTorch for computer vision tasks.
     - Familiar with **generative AI** technologies such as LangChain, OpenAI APIs, and vector databases.
 
-- **Data & Analysis:** Proficient in data manipulation with Pandas and NumPy. Strong statistical foundation in **hypothesis testing**, **Bayesian inference**, **causal inference**, and **hierarchical models**.
+- **Data & Analysis:** 
+    - Proficient in data manipulation with Pandas and NumPy. 
+    - Strong statistical foundation in **hypothesis testing**, **Bayesian inference**, **causal inference**, and **hierarchical models**.
 
 ---
 
