@@ -40,3 +40,6 @@
 [![Email](https://img.shields.io/badge/Email-%230078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:minhanh.to@duke.edu)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFAC45.svg?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/minhanhto09)  
 ---
+
+
+[![ChessGPT Project](https://img.shields.io/badge/Project-ChessGPT-blueviolet)](https://github.com/minhanhto09/chessgpt)
