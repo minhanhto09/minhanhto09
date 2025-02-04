@@ -1,83 +1,48 @@
-# Hi, I'm Minh-Anh To! 👋
+# Hi, I'm Minh-Anh To! 👋  
 
-🚀 **Data Scientist | Machine Learning Engineer**  
-🎓 **MSS (Master of Statistical Science) Final-Year Student**  
-🌍 **Always curious, always learning, always sharing**
-
----
-
-## 📖 **About Me**
-
-
-I love solving real-world challenges through the power of data and AI. From helping optimize healthcare with machine learning to developing an AI-powered chess coach, I combine technical expertise with creative problem-solving. My work spans diverse industries like healthcare, education, and tech, and I’m always eager to explore new ways data can drive innovation.
-
+🚀 Data Scientist | Machine Learning Engineer  
+🎓 M.S. in Statistical Science, Duke University  
 
 ---
 
-## 🔧 **Skills Overview**
+## 📖 About Me 📊  
 
-### **Programming & Tools**
-- **Languages:** Python, R, SQL, Git  
-- **Tools & Platforms:** Jupyter, Cloud Services (AWS, GCP), GitHub  
+- I am a Master's student in Statistical Science at Duke University with a full-tuition scholarship. I currently work as a teaching assistant (TA) and am a member of the American Statistical Association (ASA).  
 
-### **Artificial Intelligence & Machine Learning**
-- **Generative AI:** LangChain, OpenAI APIs, Vector Databases (VectorDBs)  
-- **Deep Learning:** TensorFlow, PyTorch, Convolutional Neural Networks (CNNs)  
-- **Traditional Machine Learning:** XGBoost, Random Forest, Logistic Regression, Support Vector Machines (SVM)  
+- I am collaborating with a chess grandmaster to develop a Chess Tutor Chatbot 🤖 that provides personalized post-game feedback and strategic insights to learners.  
 
-### **Statistical Analysis & Modeling**
-- Hypothesis Testing, Forecasting, Bayesian Inference  
-- Hierarchical and Mixed-Effects Models, Causal Inference  
+- During my internship at Duke School of Medicine, I built an end-to-end machine learning pipeline to predict antibody yields, improving production efficiency for HIV/AIDS treatment. I presented this project to over 200 scientists at the Duke CFAR Retreat in 2024.  
 
-### **Data Handling & Feature Engineering**
-- Pandas, NumPy, Scikit-learn  
-- Feature creation for structured and unstructured data, including spatial and biological data  
+- I conducted research on statistical inference and hypothesis testing at the Vietnam Institute of Mathematics, supported by a VinIF Vietnam research grant.  
+
+- I was awarded the National Mathematics Scholarship 🏅 from the Vietnam Ministry of Training and Education, recognizing the top 1% of math students in the country.  
+
+- Outside of work, I enjoy board games 🎲, DIY projects 🔨, and yoga 🧘‍♀️.  
 
 ---
 
+## 🔧 Skills 🛠️  
 
-## 🏆 **Highlight Projects**
+- **Programming & Tools:** Python, R, SQL, Git, Jupyter, Cloud Platforms (AWS, GCP)  
 
-### 🎯 **ChessGPT: AI-Powered Chess Tutor**
-- Developed an LLM-based personalized coach to assist chess students in understanding positions and strategies.
-- Implemented a Retrieval-Augmented Generation (RAG) pipeline, fine-tuned with chess board position datasets.
-- Enhanced the retriever model by building custom embeddings for chess concepts with ChromaDB.
+- **Machine Learning & AI:** Applied models like XGBoost, Random Forest, and Logistic Regression for prediction and optimization. Skilled in deep learning with CNNs, TensorFlow, and PyTorch. Familiar with generative AI tools, including LangChain, OpenAI APIs, and vector databases.  
 
-### 🧪 **Optimization of Antibody Production Using Machine Learning**
-- Engineered structural mRNA features (global & local Moran's I) to predict protein yields from amino acid sequences.
-- Used tools like ViennaRNA and CAIcal to extract biologically significant metrics.
-- Built and optimized models (Random Forest, XGBoost, Lasso) with hyperparameter tuning and cross-validation.
-
-### 🤖 **Sparse Autoencoder for Image Denoising (MNIST)**
-- Developed an autoencoder with noisy MNIST data to reconstruct clean images.
-- Identified and ranked key dictionary vectors for optimal image reconstruction.
-
-### 📊 **Hierarchical Model Analysis for Earthquake Data**
-- Fitted hierarchical linear models to assess relationships between ground acceleration and geological features.
-- Performed likelihood ratio tests to compare model performance and improve predictive power.
+- **Data & Analysis:** Experienced in data manipulation with Pandas and NumPy. Strong statistical foundation in hypothesis testing, Bayesian inference, causal inference, and hierarchical models.  
 
 ---
 
-## 🛠️ **Current Focus**
-
-🔍 **Exploring advanced LLM technologies for chess coaching and educational tools**  
-📚 **Expanding expertise in plant-based health optimization with machine learning**  
-🌐 **Collaborating on startup and hackathon projects to create AI-driven innovations**
-
----
-
-## 💡 **Let's Connect!**
+## 💡 Let's Connect 🔗  
 
 📂 [LinkedIn](https://www.linkedin.com/in/minhanhto/)  
 📁 [Hugging Face](https://huggingface.co/minhanhto09)  
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 GitHub Stats  
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=minhanhto09&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minhanhto09&layout=compact&theme=radical)  
 
 ---
 
-### ✨ "Data is the new oil; let’s refine it for a brighter future!"
+### ✨ "Data is the new oil; let’s refine it for a brighter future!" ✨
