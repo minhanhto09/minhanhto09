@@ -5,9 +5,9 @@
 
 ---
 
-## 📖 **About Me**
+<!-- ## 📖 **About Me**
 
-- I'm a **Master's in Statistical Science** student at Duke University with a **full-tuition scholarship**. I currently work as a teaching assistant (TA) and am an active member of the American Statistical Association (ASA).
+ - I'm a **Master's in Statistical Science** student at Duke University with a **full-tuition scholarship**. I currently work as a teaching assistant (TA) and am an active member of the American Statistical Association (ASA).
 
 - I'm collaborating with a **chess grandmaster** to develop a **Chess Tutor Chatbot** that provides learners with personalized post-game feedback and strategic insights.
 
@@ -17,7 +17,40 @@
 
 - I was awarded the **National Mathematics Scholarship** from the Vietnam Ministry of Training and Education, recognizing the top **1% of math students** in Vietnam.
 
-- Outside of work, I enjoy board games, DIY projects, and yoga.
+- Outside of work, I enjoy board games, DIY projects, and yoga. -->
+
+# Hi, I'm Minh-Anh To! 👋  
+
+🎓 **Master's in Statistical Science** student at Duke University with **Duke full-tuition scholarship** and **Vingroup Scholarship**. Currently a teaching assistant (TA) and an official member of the **American Statistical Association (ASA)**.  
+
+---
+
+## 📖 **About Me**
+<details>
+  <summary>🤖 AI Development with Chess Grandmaster</summary>
+  - Collaborating with a chess grandmaster to create a **Chess Tutor Chatbot**, offering learners personalized post-game feedback and strategic insights.  
+</details>
+
+<details>
+  <summary>🧪 Machine Learning Intern (Duke University School of Medicine)</summary>
+  - Developed **end-to-end machine learning pipelines** to predict antibody yields, improving production for **HIV/AIDS treatment**. Presented findings to **200+ scientists** at the **Duke CFAR Retreat 2024**.  
+</details>
+
+<details>
+  <summary>📊 Statistical Research Experience</summary>
+  - Conducted research on **statistical inference** and **hypothesis testing** at the **Vietnam Institute of Mathematics**, funded by a **VinIF Vietnam** grant.  
+</details>
+
+<details>
+  <summary>🏆 Achievements</summary>
+  - Awarded the **National Mathematics Scholarship** by the **Vietnam Ministry of Training and Education**, recognizing the top **1% of math students** in Vietnam.  
+</details>
+
+---
+
+## 🌟 **Fun Facts**  
+🎲 I enjoy **board games**, 🔨 **DIY projects**, and 🧘‍♀️ **yoga** to stay creative and balanced.
+
 
 ---
 
@@ -37,9 +70,7 @@
 ## 💡 Let's Connect!  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minhanhto/)  
-[![Email](https://img.shields.io/badge/Email-%230078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:minhanh.to@duke.edu)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tominhanh1996@gmail.com)
+[![Outlook](https://img.shields.io/badge/Email-%230078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:minhanh.to@duke.edu)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFAC45.svg?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/minhanhto09)  
 ---
-
-
-[![ChessGPT Project](https://img.shields.io/badge/Project-ChessGPT-blueviolet)](https://github.com/minhanhto09/chessgpt)
