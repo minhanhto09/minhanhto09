@@ -5,52 +5,19 @@
 
 ---
 
-<!-- ## 📖 **About Me**
+-- ## 📖 **About Me**
 
- - I'm a **Master's in Statistical Science** student at Duke University with a **full-tuition scholarship**. I currently work as a teaching assistant (TA) and am an active member of the American Statistical Association (ASA).
+🎓 I'm a **Master's in Statistical Science** student at Duke University with a **full-tuition scholarship**. I currently work as a teaching assistant (TA) and am an active member of the American Statistical Association (ASA).
 
-- I'm collaborating with a **chess grandmaster** to develop a **Chess Tutor Chatbot** that provides learners with personalized post-game feedback and strategic insights.
+🤖 I'm collaborating with a **chess grandmaster** to develop a **Chess Tutor Chatbot** that provides learners with personalized post-game feedback and strategic insights.
 
-- During my **internship at Duke University School of Medicine**, I built **end-to-end machine learning pipelines** to predict antibody yields, enhancing production for **HIV/AIDS treatment**. I presented this project to 200+ scientists at the Duke CFAR Retreat 2024.
+🧪 During my **internship at Duke University School of Medicine**, I built **end-to-end machine learning pipelines** to predict antibody yields, enhancing production for **HIV/AIDS treatment**. I presented this project to 200+ scientists at the Duke CFAR Retreat 2024.
 
-- I conducted research on **statistical inference** and **hypothesis testing** at the Vietnam Institute of Mathematics, funded by a **VinIF Vietnam** grant.
+📊 I conducted research on **statistical inference** and **hypothesis testing** at the Vietnam Institute of Mathematics, funded by a **VinIF Vietnam** grant.
 
-- I was awarded the **National Mathematics Scholarship** from the Vietnam Ministry of Training and Education, recognizing the top **1% of math students** in Vietnam.
+🏆 I was awarded the **National Mathematics Scholarship** from the Vietnam Ministry of Training and Education, recognizing the top **1% of math students** in Vietnam.
 
-- Outside of work, I enjoy board games, DIY projects, and yoga. -->
-
-# Hi, I'm Minh-Anh To! 👋  
-
-🎓 **Master's in Statistical Science** student at Duke University with **Duke full-tuition scholarship** and **Vingroup Scholarship**. Currently a teaching assistant (TA) and an official member of the **American Statistical Association (ASA)**.  
-
----
-
-## 📖 **About Me**
-<details>
-  <summary>🤖 AI Development with Chess Grandmaster</summary>
-  - Collaborating with a chess grandmaster to create a **Chess Tutor Chatbot**, offering learners personalized post-game feedback and strategic insights.  
-</details>
-
-<details>
-  <summary>🧪 Machine Learning Intern (Duke University School of Medicine)</summary>
-  - Developed **end-to-end machine learning pipelines** to predict antibody yields, improving production for **HIV/AIDS treatment**. Presented findings to **200+ scientists** at the **Duke CFAR Retreat 2024**.  
-</details>
-
-<details>
-  <summary>📊 Statistical Research Experience</summary>
-  - Conducted research on **statistical inference** and **hypothesis testing** at the **Vietnam Institute of Mathematics**, funded by a **VinIF Vietnam** grant.  
-</details>
-
-<details>
-  <summary>🏆 Achievements</summary>
-  - Awarded the **National Mathematics Scholarship** by the **Vietnam Ministry of Training and Education**, recognizing the top **1% of math students** in Vietnam.  
-</details>
-
----
-
-## 🌟 **Fun Facts**  
-🎲 I enjoy **board games**, 🔨 **DIY projects**, and 🧘‍♀️ **yoga** to stay creative and balanced.
-
+🎲 Outside of work, I enjoy board games, DIY projects, and yoga. 
 
 ---
 
@@ -59,7 +26,7 @@
 - **Programming & Tools:** Python, R, SQL, Git, Jupyter, Cloud Platforms (AWS, GCP)
 
 - **Machine Learning & AI:** 
-    - Experienced in applying models like XGBoost, Random Forest, and Logistic Regression for prediction, classification, and optimization. 
+    - Experienced in applying **machine-learning** models like XGBoost, Random Forest, and Logistic Regression for prediction, classification, and optimization. 
     - Skilled in **deep learning** using CNNs, TensorFlow, and PyTorch for computer vision tasks.
     - Familiar with **generative AI** technologies such as LangChain, OpenAI APIs, and vector databases.
 
